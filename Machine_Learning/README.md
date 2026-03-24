@@ -197,3 +197,4 @@ y  →  always 1D  →  shape (n_samples,)
 ## 🔗 Links
 
 > Datasets to practice - [Machine Learning Repository](https://archive.ics.uci.edu/)
+> Slides - [Machine Learning Slides](https://online.fliphtml5.com/grdgl/hfrm/#p=1)
